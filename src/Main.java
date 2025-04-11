@@ -44,10 +44,4 @@ public class Main {
         int deliveryDistance = 50;
         calculateDeliveryDays(deliveryDistance);
     }
-
-
-
-
-
-
 }
